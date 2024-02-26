@@ -1,0 +1,17 @@
+/* styles.css */
+.user-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .user-list-item {
+    background-color: #101dd8;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+  }
+  
+  .user-list-item:hover {
+    background-color: #4f5e0f;
+  }
+  
